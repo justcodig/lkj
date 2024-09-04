@@ -1,7 +1,6 @@
 # flower J4
 
 
-## 배포주소 : 
 ## 기간 : 2024.05.14~20240.05.28
 ## 인원 : 4명 
 ## 본인 역할
@@ -17,17 +16,19 @@
 ## 주요 페이지
 ### Mypage
 
-<img src="https://github.com/user-attachments/assets/3dcfaecf-0d64-4d42-b5ca-408bd7b34090" width=500px; height=500px;>
+<img src="https://github.com/user-attachments/assets/3dcfaecf-0d64-4d42-b5ca-408bd7b34090" width=400px; height=400px;>
 >
 
 - Mypage
 
-<img src="https://github.com/user-attachments/assets/1d1c18a6-890c-443c-9a27-b1d539343687" width=200px; height=150px;>
->
+
+<img src="https://github.com/user-attachments/assets/1d1c18a6-890c-443c-9a27-b1d539343687" width=400px; height=400px;>
 
 
 
-<img src="https://github.com/user-attachments/assets/e352d227-1b9c-4e83-8371-d408d43b0a9a" width=200px; height=150px;>
+
+
+<img src="https://github.com/user-attachments/assets/e352d227-1b9c-4e83-8371-d408d43b0a9a" width=400px; height=400px;>
 
 
 
